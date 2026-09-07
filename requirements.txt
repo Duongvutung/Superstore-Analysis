@@ -1,0 +1,11 @@
+```txt
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+openpyxl
+notebook
+jupyter
