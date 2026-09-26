@@ -14,8 +14,6 @@ Trong giai đoạn 2014 – 2017, chuỗi bán lẻ Superstore ghi nhận tổng
 
 ## 2. Các Insight Cốt lõi (Key Findings)
 
-## 2. Các Insight Cốt lõi (Key Findings)
-
 ### 📌 Insight 1: Nghịch lý ngành hàng Nội thất (Furniture vs Technology)
 * **Số liệu thực tế:** 
   * **Technology (Công nghệ):** Dẫn đầu về cả doanh thu và lợi nhuận, mang về 836.154,03 USD doanh thu và 145.454,95 USD lợi nhuận (biên lợi nhuận đạt ~17.4%).
